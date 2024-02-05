@@ -124,5 +124,17 @@ flutter build apk
       </a>
       <br/>
     </td>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/pedro-manfio-lill-860008237/">
+        <img src="https://avatars.githubusercontent.com/u/56699158?s=100&v=4" width="100px;" alt="Pedro Manfio"/>
+        <br/>
+        <sub><b>Pedro Manfio</b></sub>
+      </a>
+      <br/>
+      <a href="https://github.com/pedro-lill">
+        <sub><b>GitHub</b></sub>
+      </a>
+      <br/>
+    </td>
   </tr>
 </table>
